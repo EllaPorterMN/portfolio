@@ -1,2 +1,2 @@
-# webdev-progress-blog
-The purpose of this website is to show the progress I have made towards becoming a better web developer. Any new entries added will contain information about how I got better or what I learned. This will make it easier to track my progress and give me more motivation to continue learning as a web developer.
+# portfolio
+The purpose of this website is to show the progress I have made towards becoming a better web developer. The homepage is an overview of everything I have done, while the blog is intended to track my progress. Overall, this will give me more motivation to continue learning as a web developer.
